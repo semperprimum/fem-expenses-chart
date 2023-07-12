@@ -118,7 +118,7 @@ main {
         transform: scaleY(0);
         transform-origin: bottom;
 
-        animation: .5s ease grow forwards;
+        animation: .8s ease grow forwards .25s;
 
         p {
           display: none;
